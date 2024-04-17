@@ -1,3 +1,4 @@
+<img src="https://github.com/ruwo36/aliajeeb/blob/main/Artificial%20Intelligence.jpg">
 <h1 align="center">Hi 👋, I'm Ali Ajeeb</h1>
 <h3 align="center">A Image Processing and Automation Engineer</h3>
 
