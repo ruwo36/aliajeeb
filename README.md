@@ -1,4 +1,4 @@
-<img src="https://github.com/ruwo36/aliajeeb/blob/main/Artificial%20Intelligence.jpg">
+<img src="https://github.com/ruwo36/ruwo36/blob/main/IT-Academy%20(1).gif">
 <h1 align="center">Hi 👋, I'm Ali Ajeeb</h1>
 <h3 align="center">A Image Processing and Automation Engineer</h3>
 
