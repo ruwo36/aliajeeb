@@ -56,7 +56,6 @@
         <img src="https://i.pinimg.com/736x/25/a8/5d/25a85d9e5057430d82273a3c75e73014.jpg"
             alt="Assembly" width="70" height="70" />
     </a>
-   
     <h4>Automation:</h4>
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
